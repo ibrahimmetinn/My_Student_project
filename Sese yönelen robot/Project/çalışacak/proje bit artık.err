@@ -1,0 +1,7 @@
+*** Error 18 "proje bit artýk.c" Line 1(9,28): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\proje bit artýk.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\proje bit artýk.h"
+    Not in project "C:\Users\ibrah\Desktop\YENÝ PROJE\çalýþacak\proje bit artýk.h"
+*** Error 128 "proje bit artýk.c" Line 2(2,6): A #DEVICE required before this line
+      2 Errors,  0 Warnings.
+Build Failed.

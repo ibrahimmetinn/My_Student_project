@@ -1,0 +1,9 @@
+>>> Warning 214 "main.c" Line 21(1,1): Operator precedance rules may not be as intended, use () to clarify
+>>> Warning 214 "main.c" Line 21(1,1): Operator precedance rules may not be as intended, use () to clarify
+>>> Warning 214 "main.c" Line 29(1,1): Operator precedance rules may not be as intended, use () to clarify
+>>> Warning 214 "main.c" Line 29(1,1): Operator precedance rules may not be as intended, use () to clarify
+>>> Warning 214 "main.c" Line 36(1,1): Operator precedance rules may not be as intended, use () to clarify
+>>> Warning 214 "main.c" Line 36(1,1): Operator precedance rules may not be as intended, use () to clarify
+      Memory usage:   ROM=2%      RAM=3% - 3%
+      0 Errors,  6 Warnings.
+Build Successful.
